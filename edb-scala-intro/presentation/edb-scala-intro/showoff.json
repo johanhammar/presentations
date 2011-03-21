@@ -1,0 +1,10 @@
+{
+  "name": "EDB Scala Intro",
+  "description": "EDB Scala Intro",
+  "sections": [
+    {"section":"intro"},
+    {"section":"about"},
+    {"section":"code"},
+    {"section":"links"}
+  ]
+}
