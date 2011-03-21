@@ -14,7 +14,7 @@
 # Other #
 
 * [This
-  presentation](http://www.github.com/johanhammar/presentations/edb-scala-intro)
+  presentation](https://github.com/johanhammar/presentations/tree/master/edb-scala-intro)
 * [Göteborgs Scalaentusiaster](http://www.meetup.com/Scala-Geats/)
 * [Scala Sverige](http://groups.google.com/group/scala-sverige) 
 
